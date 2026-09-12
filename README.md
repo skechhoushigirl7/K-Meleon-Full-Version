@@ -246,3 +246,6 @@ This repository serves as the official landing page for K-Meleon. The software i
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://kmeleon.org)
 
 **Get the most recent version of K-Meleon today!**
+
+---
+**Last updated:** 2026-09-12 11:45:47 UTC
